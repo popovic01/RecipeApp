@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable-v24/btn_bg2.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/btn_bg.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/btn_top.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_add.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_back.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_email.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_home.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_lock.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_login_bg.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_person.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_register_bg.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/ic_save.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/login_btn_bg.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/rounded_corner.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/search_bg.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/selector.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_add_recipe.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_logout.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_saved.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_splash.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_update_recipe.xml" value="0.2" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/custom_row.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/djaka.xml" value="0.264" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/rv_main_category.xml" value="0.536" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/rv_recipe.xml" value="0.4" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/rv_sub_category.xml" value="0.4" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/menu-v26/menu_nav.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/menu/menu_delete.xml" value="0.209375" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/menu/menu_nav.xml" value="0.4" />
+        <entry key="..\:/Users/Milica/AndroidStudioProjects/RecipeApp/app/src/main/res/menu/popup_menu.xml" value="1.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
