@@ -1,6 +1,6 @@
 # RecipeApp
 
-## Features:
+## Features
 - auth with Firebase
 - recipe search
 - categories
